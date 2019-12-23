@@ -7,6 +7,7 @@
 3. In order to test the model for different models we need to change the global variables defined for the model - vggish_params.AUDIO_EMBEDDING_FEATURE_NAME
 4. Mel-features is used to plot the input video to the Convert array into a sequence of successive possibly overlapping frames
 
+Note - The vggish model is written using the older tensor-flow model. As of now we are usng this older version but in the future we plan to update the definition of the model based on newer version of TensorFlow.
 
 ## Steps to start different projects in the mac - 
 ### Set up the conda command on terminal 
