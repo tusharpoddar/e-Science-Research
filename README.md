@@ -28,6 +28,9 @@
 - Source- https://www.dezyre.com/data-science-in-python-tutorial/principal-component-analysis-tutorial
 
 ## Working with conda
-- In order to make the correct environment for the research thing to work install the packages that have been specified in the vggish model information. After you are done then run the vggish_inference)demo.py first without any changes to run it with the default things. 
+- In order to make the correct environment for the research thing to work install the packages that have been specified in the vggish model information. (For reference of all the packages and their versions are listed in the package-list.txt) OR 
+- You can also use the command ```conda create --name <env> --file <package-list.txt>``` to direclty install all of these packages into your environment.
+- Once done with that, run the vggish_inference_demo.py first without any changes to run it with the default things. 
 - After the things works with the default settings, go on to test your code with the wav file you specify and the file name you want the tf-records to come in. 
-- Now we get a tf-record file of the input file and we need to analyse it. This is done on jupyter notebook uploaded in the repository.  
+- Now we get a tf-record file of the input file and we need to analyse it. This is done on jupyter notebook uploaded in the repository.
+
