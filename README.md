@@ -1,5 +1,5 @@
 # Research Work
-
+The following research uses the VGGish model definition given by tensorflow in the Audioset models which is an audio classifier model that was trained on the Youtube 8M dataset.  
 ## Vggish Model - 
 #### Things done with the Vggish model on github to see what happens and how does the model work and how does it takes the input and what does it returns. 
 1. The vggish_input.py is the file that takes in the wave-file and then returns the 3d shape or in other words it gives out the representation of the data that we feed it. 
