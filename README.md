@@ -2,7 +2,7 @@
 The following research uses the VGGish model definition given by tensorflow in the Audioset models which is an audio classifier model that was trained on the Youtube 8M dataset.  
 
 Note - work with the jupyter notebook here 
-https://hub.gke.mybinder.org/user/tusharpoddar-e-science-research-bc2benpr/tree
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https%3A%2F%2Fhub.gke.mybinder.org%2Fuser%2Ftusharpoddar-e-science-research-bc2benpr%2Ftree/master)
 
 ## Vggish Model - 
 #### Things done with the Vggish model on github to see what happens and how does the model work and how does it takes the input and what does it returns. 
