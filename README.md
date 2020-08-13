@@ -1,8 +1,5 @@
 # Research Work
 
-Temp - 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zDe-h9nGjmrYAhB8b36rrTe1HnxzuZy6?authuser=1)
-
 The following research uses the VGGish model definition given by tensorflow in the Audioset models which is an audio classifier model that was trained on the Youtube 8M dataset.
 
 Note - work with the jupyter notebook here
